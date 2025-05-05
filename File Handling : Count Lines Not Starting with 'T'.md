@@ -31,3 +31,5 @@ except IndexError:
 ![image](https://github.com/user-attachments/assets/67827026-5759-483d-ac45-713a4274e342)
 
 ## Result
+Thus,the Python program that counts the number of lines in a text file `story.txt` that do **not** start with the alphabet `'T'` is created successfully.
+
